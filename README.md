@@ -8,6 +8,9 @@ Este é o repositório do backend de um sistema de E-commerce, desenvolvido em J
 * **Spring Boot**
 * **Maven** (Wrapper incluído)
 * **RESTful API**
+* **DTO**
+* **Mapper**
+* *JPA**
 
 ## 📂 Estrutura do Projeto
 

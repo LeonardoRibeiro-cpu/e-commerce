@@ -10,7 +10,7 @@ Este é o repositório do backend de um sistema de E-commerce, desenvolvido em J
 * **RESTful API**
 * **DTO**
 * **Mapper**
-* *JPA**
+* **JPA**
 
 ## 📂 Estrutura do Projeto
 
